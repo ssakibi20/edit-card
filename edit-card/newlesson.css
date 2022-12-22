@@ -1,0 +1,27 @@
+.warrenface{
+    width: 150px;
+}
+
+.card{
+
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    margin: 0 auto;
+    
+}
+
+div{
+    color: #2d2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin: 20px;
+}
